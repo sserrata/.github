@@ -174,6 +174,7 @@ Required product topics (use at least one):
 - `hub`
 - `log-forwarding-app`
 - `logging-service`
+- `pan-dev`
 - `pan-os`
 - `panorama`
 - `prisma-access`
